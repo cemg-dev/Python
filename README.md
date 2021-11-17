@@ -12,6 +12,7 @@ Aprendizado da linguagem de programação python
 - POO
 
 ## Avançado
+- Gráficos
 - Data Mining
 - Process Mining
 - Django
